@@ -20,5 +20,5 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  </p>
 
-- 🌱 I’m currently learning JavaScript
-<!-- 🔭 I’m currently working on -->
+- 🌱 I’m currently further learning HTML, CSS, and JavaScript
+- 🔭 I’m currently working on Messaging App Cloning
