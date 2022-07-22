@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jason Hyungeeu CHoi</h1>
+<h1 align="center">Hi 👋, I'm Jason Hyungeeu Choi</h1>
 <h3 align="center">A passionate student at University of Washington seeking developer internship.</h3>
 
 - 📫 How to reach me **hgchoi1116@gmail.com**
